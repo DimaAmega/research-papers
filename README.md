@@ -10,25 +10,27 @@ A collection of research papers on nonlinear dynamics, chaos, and synchronizatio
 **Source:** Chaos: An Interdisciplinary Journal of Nonlinear Science (2021)  
 **DOI:** [10.1063/5.0044521](https://doi.org/10.1063/5.0044521)
 
-Study of chaos and hyperchaos emergence in evolving networks of coupled pendulums.
 
-[📄 Read paper](HGCh.pdf)
+[Read paper](papers/HGCh.pdf)
 
 ---
 
-## 2. Khorkin (2020)
+## 2. Phase control for the dynamics of connected rotators
 
-**Author:** Dmitry S. Khorkin  
-**Year:** 2020
+**Authors:** D.S. Khorkin, M.I. Bolotov, L.A. Smirnov, G.V. Osipov  
+**Source:** Automation and Remote Control (2020)  
+**DOI:** [10.1134/S0005117920080111](https://doi.org/10.1134/S0005117920080111)
 
-[📄 Read paper](Khorkin_2020.pdf)
+
+[Read paper](papers/Khorkin_2020.pdf)
 
 ---
 
 ## 3. Synchronization structures in the chain of rotating oscillators
 
-Study of synchronization patterns in chains of rotating oscillators.
+**DOI:** [10.1007/s11071-021-06419-x](https://doi.org/10.1007/s11071-021-06419-x)
 
-[📄 Read paper](Synchronization_structures_in_the_chain_of_rotating.pdf)
+
+[Read paper](papers/Synchronization_structures_in_the_chain_of_rotating.pdf)
 
 ---
